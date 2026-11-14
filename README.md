@@ -23,3 +23,8 @@ before entering the game.
 The shared battlefield targets 50 fps. Native positions and original sprite
 frames are interpolated without changing simulation speed or combat outcomes.
 The hidden RTS renderer updates once per simulation tick.
+
+Selecting a troop and tapping an enemy issues an attack directly; the first move
+or attack starts the fight. Heroes troops use their original attack, wound and
+death sounds from installed game data, normalized to PCM before combat.
+StarCraft simulation stand-ins no longer provide Heroes creature voices.
