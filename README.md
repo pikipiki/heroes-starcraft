@@ -19,3 +19,7 @@ on the device, and interrupted chunk downloads can resume.
 Combat audio is activated from Heroes touch controls. Attack mode shows a target
 reticle and confirms submitted orders; the launch checks for a newer release
 before entering the game.
+
+The shared battlefield targets 50 fps. Native positions and original sprite
+frames are interpolated without changing simulation speed or combat outcomes.
+The hidden RTS renderer updates once per simulation tick.
