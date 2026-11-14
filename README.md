@@ -28,3 +28,8 @@ Selecting a troop and tapping an enemy issues an attack directly; the first move
 or attack starts the fight. Heroes troops use their original attack, wound and
 death sounds from installed game data, normalized to PCM before combat.
 StarCraft simulation stand-ins no longer provide Heroes creature voices.
+
+Goonk creature spells use native Heroes damage and immunities against Marines.
+Opening the spell picker pauses the RTS simulation through targeting. Casting
+resumes combat; cancelling restores the previous running or waiting state.
+The demo includes a Maillemaille with three Fireball charges.
