@@ -2,7 +2,7 @@
 
 Separate GitHub Pages publication of Heroes Goonk × StarCraft.
 
-Play: https://pikipiki.github.io/heroes-starcraft/play.html
+Play: https://pikipiki.github.io/heroes-starcraft/battle.html
 
 The workflow builds the reviewed source commit in `source-ref` from
 [pikipiki/heroes3-goonks-and-magic](https://github.com/pikipiki/heroes3-goonks-and-magic/tree/codex/heroes-starcraft-crossover).
@@ -15,3 +15,7 @@ Update `source-ref` to a verified crossover commit and push this repository's
 The first launch installs and verifies StarCraft data before opening Heroes.
 Battles reuse a prepared map and compiled RTS engine; completed archives stay
 on the device, and interrupted chunk downloads can resume.
+
+Combat audio is activated from Heroes touch controls. Attack mode shows a target
+reticle and confirms submitted orders; the launch checks for a newer release
+before entering the game.
