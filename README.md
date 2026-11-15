@@ -40,3 +40,8 @@ catalogue. Preferences stay on the device. Touch a shortcut or press 1–5 to en
 paused targeting; the full book remains available. The command card uses the
 original Heroes spell icons in a steel RTS console, with five shortcuts across
 the bottom in portrait and a 3×3 grid on the right in landscape.
+
+The same five saved references also work in native Heroes combat, in both Classic
+view and Vertical view. Native shortcuts respect hero mana, creature charges,
+active creature turns and contextual target legality. Preparation preserves the
+current turn, and portrait/landscape rotation keeps the selected loadout.
