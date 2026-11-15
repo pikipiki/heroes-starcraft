@@ -56,3 +56,9 @@ Portrait combat keeps creatures upright at a comparable visible size. Original
 Heroes detail, edge-aware StarCraft sprite enlargement, cached backdrops and
 adaptive canvas resolution keep the battlefield readable while targeting 50 fps.
 These are smoothed original sprites, not replacement HD artwork.
+
+**↩ Classique** continues the same battle under Heroes III turn-based rules.
+All six StarCraft creature types have original movement, attack and death
+animations and attack audio in classic combat. Casualties, total health, mana,
+spell effects and summoned creatures persist in both directions. Protoss
+classic durability includes shields; the real-time engine splits shields and HP.
