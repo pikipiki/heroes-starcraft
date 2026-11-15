@@ -29,8 +29,8 @@ or attack starts the fight. Heroes troops use their original attack, wound and
 death sounds from installed game data, normalized to PCM before combat.
 StarCraft simulation stand-ins no longer provide Heroes creature voices.
 
-The demo fields seven final Heroes faction creatures in full army slots, five
-members each, against twelve Terran, Zerg and Protoss units with maximum upgrades.
+The demo fields seven final Heroes faction creatures in full army slots, one
+member each, against twelve Terran, Zerg and Protoss units with maximum upgrades.
 Hero and creature spells use the native Heroes rules, with original spell,
 wound and death animations on the shared battlefield. Protoss shields absorb
 spell damage before health.
