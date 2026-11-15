@@ -45,3 +45,14 @@ The same five saved references also work in native Heroes combat, in both Classi
 view and Vertical view. Native shortcuts respect hero mana, creature charges,
 active creature turns and contextual target legality. Preparation preserves the
 current turn, and portrait/landscape rotation keeps the selected loadout.
+
+During a solo field battle, **▶ Temps réel** switches the current classic or
+vertical battle to RTS while preserving casualties, wounds, mana and effects.
+**Tous les sorts** reuses the classic spellbook component, with school tabs,
+pages, descriptions, target confirmation and a creature-caster selector.
+The game pauses while choosing a spell.
+
+Portrait combat keeps creatures upright at a comparable visible size. Original
+Heroes detail, edge-aware StarCraft sprite enlargement, cached backdrops and
+adaptive canvas resolution keep the battlefield readable while targeting 50 fps.
+These are smoothed original sprites, not replacement HD artwork.
