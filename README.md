@@ -29,7 +29,14 @@ or attack starts the fight. Heroes troops use their original attack, wound and
 death sounds from installed game data, normalized to PCM before combat.
 StarCraft simulation stand-ins no longer provide Heroes creature voices.
 
-Goonk creature spells use native Heroes damage and immunities against Marines.
-Opening the spell picker pauses the RTS simulation through targeting. Casting
-resumes combat; cancelling restores the previous running or waiting state.
-The demo includes a Maillemaille with three Fireball charges.
+The demo fields seven final Heroes faction creatures in full army slots, five
+members each, against twelve Terran, Zerg and Protoss units with maximum upgrades.
+Hero and creature spells use the native Heroes rules, with original spell,
+wound and death animations on the shared battlefield. Protoss shields absorb
+spell damage before health.
+
+Before combat, prepare five spell shortcuts from the complete hero and creature
+catalogue. Preferences stay on the device. Touch a shortcut or press 1–5 to enter
+paused targeting; the full book remains available. The command card uses the
+original Heroes spell icons in a steel RTS console, with five shortcuts across
+the bottom in portrait and a 3×3 grid on the right in landscape.
